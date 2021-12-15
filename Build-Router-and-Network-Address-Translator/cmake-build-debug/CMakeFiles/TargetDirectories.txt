@@ -1,0 +1,3 @@
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/cmake-build-debug/CMakeFiles/cs118_fall2020_project2.dir

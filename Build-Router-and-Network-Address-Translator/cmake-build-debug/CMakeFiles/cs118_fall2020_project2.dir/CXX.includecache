@@ -1,0 +1,102 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/arp-cache.hpp
+core/protocol.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/protocol.hpp
+list
+-
+mutex
+-
+thread
+-
+chrono
+-
+memory
+-
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/interface.hpp
+protocol.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/protocol.hpp
+ostream
+-
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/protocol.hpp
+vector
+-
+list
+-
+string
+-
+ostream
+-
+algorithm
+-
+arpa/inet.h
+-
+string.h
+-
+boost/detail/endian.hpp
+-
+stdint.h
+-
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/utils.hpp
+protocol.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/protocol.hpp
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/nat.hpp
+core/protocol.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/protocol.hpp
+map
+-
+list
+-
+mutex
+-
+thread
+-
+chrono
+-
+memory
+-
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/routing-table.hpp
+core/protocol.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/protocol.hpp
+list
+-
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/simple-router.cpp
+iostream
+-
+string
+-
+simple-router.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/simple-router.hpp
+core/utils.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/utils.hpp
+fstream
+-
+set
+-
+
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/simple-router.hpp
+arp-cache.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/arp-cache.hpp
+nat.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/nat.hpp
+routing-table.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/routing-table.hpp
+core/protocol.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/protocol.hpp
+core/interface.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/core/interface.hpp
+pox.hpp
+/Users/jinbean/Desktop/UCLA/2021 Fall quarter/CS 118/Project/Project 2/cs118_fall2020_project2/pox.hpp
+
